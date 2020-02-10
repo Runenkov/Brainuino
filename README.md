@@ -1,2 +1,2 @@
 # Brainuino
-Brain-ring Knock-out system based on Arduino
+Brain-ring knock-out system based on Arduino
